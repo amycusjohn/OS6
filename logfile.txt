@@ -1,0 +1,241 @@
+Master: Fork Time starts at 0 : 119775091
+Master: Forked  at 0 : 119800000 
+Master: Child 0 born with PID: 14118
+Master: Fork Time starts at 0 : 527298074
+Master: Forked  at 0 : 527300000 
+Master: Child 1 born with PID: 14119
+Master: Fork Time starts at 0 : 579398027
+Master: Forked  at 0 : 579400000 
+Master: Child 2 born with PID: 14120
+Master: Fork Time starts at 0 : 704236885
+Master: Forked  at 0 : 704250000 
+Master: Child 3 born with PID: 14121
+Master: Fork Time starts at 0 : 37981321
+Master: Forked  at 0 : 704300000 
+Master: Child 4 born with PID: 14122
+Master: Fork Time starts at 0 : 189382532
+Master: Forked  at 0 : 704350000 
+Master: Child 5 born with PID: 14123
+Master: Fork Time starts at 0 : 155436731
+Master: Forked  at 0 : 704400000 
+Master: Child 6 born with PID: 14124
+Master: Fork Time starts at 0 : 721286545
+Master: Forked  at 0 : 721300000 
+Master: Child 7 born with PID: 14125
+Master: Fork Time starts at 0 : 970632368
+Master: P1 requesting address 6145 to write  at time 0 : 735750000
+Master: Address 6145 in frame 0 giving data to P1 at time 0 : 735750000
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P3 requesting address 19726 to write  at time 0 : 753200010
+Master: Address 19726 in frame 1 giving data to P3 at time 0 : 753200010
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P5 requesting address 15713 to  read at time 0 : 753200020
+Master: Address 15713 in frame 2 giving data to P5 at time 0 : 753200020
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P3 requesting address 6893 to write  at time 0 : 799450030
+Master: Address 6893 in frame 3 giving data to P3 at time 0 : 799450030
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P0 requesting address 10626 to  read at time 0 : 799550040
+Master: Address 10626 in frame 4 giving data to P0 at time 0 : 799550040
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P6 requesting address 20042 to write  at time 0 : 806350050
+Master: Address 20042 in frame 5 giving data to P6 at time 0 : 806350050
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P5 requesting address 20990 to  read at time 0 : 810800060
+Master: Address 20990 in frame 6 giving data to P5 at time 0 : 810800060
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P6 requesting address 13876 to  read at time 0 : 810800070
+Master: Address 13876 in frame 7 giving data to P6 at time 0 : 810800070
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P4 requesting address 11825 to  read at time 0 : 868550080
+Master: Address 11825 in frame 8 giving data to P4 at time 0 : 868550080
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P5 requesting address 5580 to  read at time 0 : 868550090
+Master: Address 5580 in frame 9 giving data to P5 at time 0 : 868550090
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P3 requesting address 22835 to write  at time 0 : 868600100
+Master: Address 22835 in frame 10 giving data to P3 at time 0 : 868600100
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P4 requesting address 31376 to write  at time 0 : 868600110
+Master: Address 31376 in frame 11 giving data to P4 at time 0 : 868600110
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P4 requesting address 29223 to write  at time 0 : 868650120
+Master: Address 29223 in frame 12 giving data to P4 at time 0 : 868650120
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P4 requesting address 6788 to  read at time 0 : 876900130
+Master: Address 6788 in frame 13 giving data to P4 at time 0 : 876900130
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P4 requesting address 13060 to write  at time 0 : 876950140
+Master: Address 13060 in frame 14 giving data to P4 at time 0 : 876950140
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P4 requesting address 4136 to write  at time 0 : 877000150
+Master: Address 4136 in frame 15 giving data to P4 at time 0 : 877000150
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P3 requesting address 22623 to write  at time 0 : 920150160
+Master: Dirty bit is set to 1 and clock is incremented some time
+Master: P4 requesting address 8981 to  read at time 0 : 940150160
+Master: Address 8981 in frame 16 giving data to P4 at time 0 : 940150160
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P1 requesting address 18393 to  read at time 0 : 940200170
+Master: Address 18393 in frame 17 giving data to P1 at time 0 : 940200170
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P2 requesting address 20373 to write  at time 0 : 945250180
+Master: Address 20373 in frame 18 giving data to P2 at time 0 : 945250180
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P4 requesting address 16467 to  read at time 0 : 945250190
+Master: Address 16467 in frame 19 giving data to P4 at time 0 : 945250190
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P5 requesting address 13901 to  read at time 0 : 945250200
+Master: Address 13901 in frame 20 giving data to P5 at time 0 : 945250200
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P3 requesting address 29171 to  read at time 0 : 964300210
+Master: Address 29171 in frame 21 giving data to P3 at time 0 : 964300210
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: Forked  at 0 : 970650220 
+Master: Child 8 born with PID: 14126
+Master: Fork Time starts at 0 : 256499787
+Master: Forked  at 0 : 970700220 
+Master: Child 9 born with PID: -1
+Master: Fork Time starts at 0 : 455186763
+Master: Forked  at 0 : 970750220 
+Master: Child 10 born with PID: -1
+Master: Fork Time starts at 0 : 310785352
+Master: Forked  at 0 : 970800220 
+Master: Child 11 born with PID: -1
+Master: Fork Time starts at 0 : 300320214
+Master: Forked  at 0 : 970850220 
+Master: Child 12 born with PID: -1
+Master: Fork Time starts at 0 : 101798028
+Master: Forked  at 0 : 970900220 
+Master: Child 13 born with PID: -1
+Master: Fork Time starts at 0 : 340086649
+Master: Forked  at 0 : 970950220 
+Master: Child 14 born with PID: -1
+Master: Fork Time starts at 0 : 136906533
+Master: Forked  at 0 : 971000220 
+Master: Child 15 born with PID: -1
+Master: Fork Time starts at 0 : 469006499
+Master: Forked  at 0 : 971050220 
+Master: Child 16 born with PID: -1
+Master: Fork Time starts at 0 : 246023834
+Master: Forked  at 0 : 971100220 
+Master: Child 17 born with PID: -1
+Master: Fork Time starts at 0 : 366490532
+Master: P2 requesting address 23192 to  read at time 0 : 977600220
+Master: Address 23192 in frame 22 giving data to P2 at time 0 : 977600220
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P4 requesting address 28759 to  read at time 0 : 982200230
+Master: Address 28759 in frame 23 giving data to P4 at time 0 : 982200230
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P1 requesting address 21979 to write  at time 0 : 982250240
+Master: Address 21979 in frame 24 giving data to P1 at time 0 : 982250240
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P4 requesting address 3095 to  read at time 0 : 982250250
+Master: Address 3095 in frame 25 giving data to P4 at time 0 : 982250250
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P2 requesting address 28849 to  read at time 0 : 984450260
+Master: Address 28849 in frame 26 giving data to P2 at time 0 : 984450260
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P3 requesting address 9303 to write  at time 0 : 984450270
+Master: Address 9303 in frame 27 giving data to P3 at time 0 : 984450270
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P4 requesting address 3310 to  read at time 0 : 984450280
+Master: Dirty bit is set to 0 and clock is incremented some time
+Master: P5 requesting address 2435 to  read at time 0 : 1004450280
+Master: Address 2435 in frame 28 giving data to P5 at time 0 : 1004450280
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P6 requesting address 10181 to write  at time 0 : 1004450290
+Master: Address 10181 in frame 29 giving data to P6 at time 0 : 1004450290
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P0 requesting address 23428 to write  at time 1 : 0
+Master: Address 23428 in frame 30 giving data to P0 at time 1 : 0
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P1 requesting address 19278 to  read at time 1 : 10
+Master: Address 19278 in frame 31 giving data to P1 at time 1 : 10
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P3 requesting address 4642 to write  at time 1 : 6850020
+Master: Address 4642 in frame 32 giving data to P3 at time 1 : 6850020
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P0 requesting address 13599 to  read at time 1 : 6900030
+Master: Address 13599 in frame 33 giving data to P0 at time 1 : 6900030
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P2 requesting address 849 to write  at time 1 : 18550040
+Master: Address 849 in frame 34 giving data to P2 at time 1 : 18550040
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P6 requesting address 15134 to write  at time 1 : 18550050
+Master: Address 15134 in frame 35 giving data to P6 at time 1 : 18550050
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P7 requesting address 18199 to write  at time 1 : 18600060
+Master: Address 18199 in frame 36 giving data to P7 at time 1 : 18600060
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P1 requesting address 13558 to  read at time 1 : 23150070
+Master: Address 13558 in frame 37 giving data to P1 at time 1 : 23150070
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P4 requesting address 1778 to  read at time 1 : 23150080
+Master: Address 1778 in frame 38 giving data to P4 at time 1 : 23150080
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P5 requesting address 30253 to  read at time 1 : 25400090
+Master: Address 30253 in frame 39 giving data to P5 at time 1 : 25400090
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P3 requesting address 29468 to write  at time 1 : 65350100
+Master: Dirty bit is set to 1 and clock is incremented some time
+Master: P1 requesting address 21022 to write  at time 1 : 95400100
+Master: Dirty bit is set to 1 and clock is incremented some time
+Master: P7 requesting address 11040 to  read at time 1 : 117700100
+Master: Address 11040 in frame 40 giving data to P7 at time 1 : 117700100
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P8 requesting address 5872 to write  at time 1 : 117700110
+Master: Address 5872 in frame 41 giving data to P8 at time 1 : 117700110
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P2 requesting address 9983 to write  at time 1 : 241900120
+Master: Address 9983 in frame 42 giving data to P2 at time 1 : 241900120
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P2 requesting address 16785 to  read at time 1 : 317150130
+Master: Address 16785 in frame 43 giving data to P2 at time 1 : 317150130
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P8 requesting address 4372 to  read at time 1 : 324050140
+Master: Address 4372 in frame 44 giving data to P8 at time 1 : 324050140
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P0 requesting address 10897 to  read at time 1 : 397250150
+Master: Dirty bit is set to 0 and clock is incremented some time
+Master: P4 requesting address 4472 to write  at time 1 : 443050150
+Master: Dirty bit is set to 1 and clock is incremented some time
+Master: P6 requesting address 15308 to write  at time 1 : 463050150
+Master: Dirty bit is set to 1 and clock is incremented some time
+Master: P8 requesting address 19763 to write  at time 1 : 508950150
+Master: Address 19763 in frame 45 giving data to P8 at time 1 : 508950150
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P1 requesting address 11885 to  read at time 1 : 509000160
+Master: Address 11885 in frame 46 giving data to P1 at time 1 : 509000160
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P5 requesting address 7337 to write  at time 1 : 509000170
+Master: Address 7337 in frame 47 giving data to P5 at time 1 : 509000170
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P3 requesting address 24141 to write  at time 1 : 534950180
+Master: Address 24141 in frame 48 giving data to P3 at time 1 : 534950180
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P7 requesting address 6192 to write  at time 1 : 534950190
+Master: Address 6192 in frame 49 giving data to P7 at time 1 : 534950190
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+Master: P0 requesting address 10644 to  read at time 1 : 560550200
+Master: Dirty bit is set to 0 and clock is incremented some time
+Master: P3 requesting address 22356 to write  at time 1 : 606150200
+Master: Dirty bit is set to 1 and clock is incremented some time
+Master: P6 requesting address 16077 to  read at time 1 : 626150200
+Master: Address 16077 in frame 50 giving data to P6 at time 1 : 626150200
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P7 requesting address 12656 to  read at time 1 : 626150210
+Master: Address 12656 in frame 51 giving data to P7 at time 1 : 626150210
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P2 requesting address 17487 to  read at time 1 : 626200220
+Master: Address 17487 in frame 52 giving data to P2 at time 1 : 626200220
+Master: Dirty bit is set to 0 and and is incremented another 10ns to the clock
+Master: P4 requesting address 26172 to write  at time 1 : 678000230
+Master: Address 26172 in frame 53 giving data to P4 at time 1 : 678000230
+Master: Dirty bit is set to 1 and and is incremented another 10ns to the clock
+
+
+Program has terminated sucessfully! The interesting statistics are printed belows:
+32.000000 memory accesses per second.
+0.000000 pagefaults per memory access.
+2857151.428571 average access speed in nanosec.

@@ -1,0 +1,15 @@
+README for Project 6 - USED GIT https://github.com/amycusjohn/OS6
+Amy Seidel
+Project will compile and run by ./oss -m x where  x is either 0 or 1
+Issues: the -m function does not really work
+I had issues with shared memory leaks but I think they are fixed now
+Happy note: found out how to use ftok for generating IPC keys safely
+All my help was from the resources below
+Used the textbook
+https://stackoverflow.com/questions/30437486/how-to-get-message-and-message-id-from-one-file-to-another-file
+https://pubs.opengroup.org/onlinepubs/009695399/functions/ftok.html
+https://www.tldp.org/LDP/tlk/kernel/processes.html
+https://www.gnu.org/software/make/manual/html_node/Suffix-Rules.html
+https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/
+https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_message_queues.htm
+https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm
