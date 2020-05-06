@@ -139,8 +139,6 @@ void randClock(unsigned int *sec, unsigned int *nanosec, unsigned int *eventSec,
 };
 
 
-
-
 /* This is for formatting the shared memory with IDs  https://linux.die.net/man/3/snprintf */
 void format(char *cSHMem, char *sSHMem, char*pSHMem, char*rscShrdMem, char*lShMem, char*perSHMem, int cID, int sID, int rscID, int place, int limit, int percentage){
 
